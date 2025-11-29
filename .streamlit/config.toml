@@ -1,0 +1,8 @@
+[theme]
+primaryColor="#FF4C7A"
+backgroundColor="#101926"
+secondaryBackgroundColor="#1B2533"
+textColor="#E8ECF1"
+
+[ui]
+thumbnailUrl = "https://raw.githubusercontent.com/SpiritGitHub/csv_analyser/main/image.png"
